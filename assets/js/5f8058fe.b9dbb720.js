@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswarm=self.webpackChunkswarm||[]).push([[932],{3621:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/Swarm/tags/docusaurus","allTagsPath":"/Swarm/tags","count":1,"items":[{"id":"roles/tech-lead","title":"Tech Lead","description":"What is the role of the Tech Lead?","permalink":"/Swarm/roles/tech-lead"}]}')}}]);

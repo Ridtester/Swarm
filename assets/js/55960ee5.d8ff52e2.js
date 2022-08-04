@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswarm=self.webpackChunkswarm||[]).push([[121],{8070:a=>{a.exports=JSON.parse('[{"label":"hola","permalink":"/Swarm/tags/hola","count":1},{"label":"docusaurus","permalink":"/Swarm/tags/docusaurus","count":1}]')}}]);
